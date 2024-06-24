@@ -8,3 +8,23 @@
 ```bash
 git init
 ```
+
+## add
+- working directory => staging area
+
+```bash
+git add .
+```
+
+## status
+- 현재 git 상태 확인
+
+## commit
+- staging area에 올라간 내용을 스냅샷 찍는다.
+    - `-m` 옵션을 통해 커밋메세지를 바로 입력가능
+
+```bash
+git commit -m "변경사항"
+```
+
+##
